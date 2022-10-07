@@ -1,5 +1,6 @@
-_Our dreamteam is composed by me Mayeul Boucher and Arianne Rousseau and Hugo Giudicelli_
-**uhyuigguy**
+# Project Group 17
+
+_Our dreamteam is composed by me **Mayeul Boucher** and Arianne Rousseau and Hugo Giudicelli_
 
 
 Our project is to create a website with account, login, profilepicture and a ranking system around a game or challenge
